@@ -3,7 +3,7 @@
 * Copyright: 2022, Zsolnai Bernadett
 * Group: Szoft II N
 * Date: 2022-01-13
-* Github: 
+* Github: https://github.com/ZsolnayBernadett
 * Licenc: GNU GPL
 */
 
